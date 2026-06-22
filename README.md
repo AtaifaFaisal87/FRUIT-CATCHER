@@ -6,7 +6,7 @@
 
 ## 🎮 Gameplay Preview
 
-![Fruit Catcher Gameplay](D:\fruit.png)
+![Fruit Catcher Gameplay](fruit.png)
 
 ---
 
